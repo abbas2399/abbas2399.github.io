@@ -8,4 +8,5 @@ cv_pdf: Abbas_Muzammil_Software_Engineer_23N_.pdf # you can also use external li
 description: Download my resume from  the top pdf download button.
 toc:
   sidebar: left
+nav: false 
 ---
