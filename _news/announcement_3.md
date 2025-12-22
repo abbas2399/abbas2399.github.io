@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined [Hephium](https://hephium.com/) as a software engineer intern 💻
+Contributed at [Hephium](https://hephium.com/) in developing their front-end.
