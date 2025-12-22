@@ -18,12 +18,13 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
+Blending the art and science of software development - turning ideas into products people love...
+Hey, you can call me Abbas. 
 
-Hey, you can call me Abbas. As a master’s in computer science student, I can add value to your organization through my excellent skills in Android and Web development and version control systems with a drive for excellence. 
-I love collaborating with diverse personalities and communities to build great products. 
+I strive to blend the art and science of software development by turning ideas into products people love.
 
 Beyond coding, I enjoy writing, reading, and teaching tech, and occasionally playing piano and cricket -:)
 
-Let's connect!
+let's connect...
 
 
