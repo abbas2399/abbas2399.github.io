@@ -24,7 +24,7 @@ related_publications: true
 </div>
 
 
-Pixly is live at <a href="">Going to be live soon!</a>.
+Pixly is <a href="">going to be live soon!</a>.
 
 
 {% raw %}
