@@ -1,11 +1,11 @@
 ---
 layout: page
 title: Pixly
-description: Pixly - An AI LLM model at your fingertips to edit any image with just a plain english command. 
+description: Pixly - AI-powered image editor at your fingertips. Transform any image using plain English commands
 img: assets/img/pixly.png
 importance: 1
 github: https://github.com/abbas2399/Pixly
-abstract: An AI LLM model at your fingertips to edit any image with just a plain english command. 
+abstract: AI-powered image editing at your fingertips. Transform any image using plain English commands
 category: work
 related_publications: true
 ---
