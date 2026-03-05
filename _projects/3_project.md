@@ -24,7 +24,14 @@ related_publications: true
 </div>
 
 
-Pixly is <a href="">going to be live soon!</a>.
+<div class="caption">
+    Video Demo of the Project
+</div>
+<div class="row justify-content-center">
+    <div class="col-sm mt-3 mt-md-0 d-flex justify-content-center">
+        {% include video.liquid path="assets/video/pixly_black2.mp4" class="img-fluid rounded z-depth-1" controls=true %}
+    </div>
+</div>
 
 
 {% raw %}
