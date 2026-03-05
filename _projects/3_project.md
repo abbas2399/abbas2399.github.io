@@ -6,7 +6,7 @@ img: assets/img/pixly.png
 importance: 1
 github: https://github.com/abbas2399/Pixly
 abstract: AI-powered image editor at your fingertips. Transform any image using plain English commands.
-video: /assets/video/Pixly__.mov
+video: assets/video/pixly_black2.mp4
 category: work
 related_publications: true
 ---
