@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined [Flusso](https://www.flussofaucets.com/) as a Software Engineer
+Joined [BGSOF](https://www.bgsof.com/) as a Software Engineer

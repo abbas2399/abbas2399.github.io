@@ -22,7 +22,9 @@ I'm Abbas Muzammil — you can call me Abbas.
 
 My journey into tech started simply by fixing broken computers. One thing led to another, and my curiosity drove me to study Computer Science, eventually going deeper into the field by earning my Master's in CS at Cleveland State University.
 
-Today, I'm a software engineer at Flusso. I'm part of a team that is revolutionizing the kitchen & bath industry by building a modern, convenient e-commerce platform where manufacturers and showroom owners can display, quote, and sell their products with ease. With a catalog of over 1M+ products, we are integrating manufacturer data and utilizing tools like Typesense to ensure lightning-fast product discovery, all powered by robust data engineering pipelines. My interests also lies in UI/UX, Robotics, and Mobile App Development.
+Today, I'm a software engineer at BGSOF. I'm part of a team that is revolutionizing the kitchen & bath industry by building a modern, convenient e-commerce platform where manufacturers and showroom owners can display, quote, and sell their products with ease. With a catalog of over 1M+ products, we are integrating manufacturer data and utilizing tools like Typesense to ensure lightning-fast product discovery, all powered by robust data engineering pipelines. My interests also lies in UI/UX, Robotics, and Mobile App Development.
+
+If you're exploring a research problem, sitting on an idea that won't leave you alone, or looking for someone to build a business with — I'd love to talk. The best work I've seen happens when curious people find each other, and I'm always glad to start that conversation.
 
 Beyond code, I enjoy calisthenics, music, travelling, playing badminton, and playing the piano! :)
 
