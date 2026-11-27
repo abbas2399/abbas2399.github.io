@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Joined [BGSOF](https://www.bgsof.com/) as a Software Engineer
+Joined Flusso as a Software Engineer, working on [BG Supply](https://www.bgsof.com/), a Flusso Marketplace project for the kitchen and bath industry.
