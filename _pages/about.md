@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-description: Personal website of Abbas Muzammil, a software engineer building Marketplace and AI-powered products.
+description: A software engineer building a new kind of marketplace for the kitchen and bath industry—turning complex product data into intuitive browsing and quoting.
 # subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Motto. Etc.
 
 profile:
